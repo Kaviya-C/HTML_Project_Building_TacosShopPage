@@ -1,0 +1,23 @@
+
+h2{
+  color:orange;
+}
+body{
+  font-size:19px;
+  color:black;
+}
+
+
+a:hover{ 
+  color:green;
+}
+
+
+
+table,tr,td,th,caption{
+  border:3px solid black;
+  font-family:"Courier-New",courier,monospace;
+  border-collapse:collapse;
+  padding;0.9rem;
+  
+}
